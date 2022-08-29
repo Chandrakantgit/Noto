@@ -1,0 +1,8 @@
+{
+  "name": "Noto(Backend)",
+  "version": "1.0.0",
+  "description": "AN app to save notes",
+  "main": "index.js",
+  "author": "SV Team 10",
+  "license": "MIT"
+}
